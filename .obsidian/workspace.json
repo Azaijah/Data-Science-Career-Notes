@@ -11,8 +11,12 @@
             "id": "6d0e2d06ff9d8784",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md"
+              }
             }
           }
         ]
@@ -140,17 +148,22 @@
   },
   "active": "6d0e2d06ff9d8784",
   "lastOpenFiles": [
-    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+    "Assets/Simplifying complex expression (1).png",
+    "Assets/Simplifying with shortcut (1).png",
     "Data Science/Mathematics Fundamentals/Fractions.md",
+    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+    "Data Science/Computer Science/Programming/Programming.md",
+    "Data Science/Computer Science/Programming/Python.md",
+    "Data Science/Computer Science/Programming/Golang.md",
+    "Data Science/Computer Science/Programming/Passing by value vs reference.md",
+    "Data Science/Computer Science/Programming/Rust.md",
+    "Data Science/Computer Science/Programming/Typescript.md",
+    "README.md",
+    "Assets/Pasted image 20240227130207.png",
+    "Assets/Simplifying with exponent rules (2).png",
     "Data Science/Mathematics Fundamentals/Exponent Rules.md",
     "Data Science/Mathematics Fundamentals/Algebra.md",
     "Data Science/Mathematics Fundamentals",
-    "Data Science/Computer Science/Programming/Typescript.md",
-    "Data Science/Computer Science/Programming/Python.md",
-    "Data Science/Computer Science/Programming/Rust.md",
-    "Data Science/Computer Science/Programming/Golang.md",
-    "Data Science/Computer Science/Programming/Programming.md",
-    "Data Science/Computer Science/Programming/Passing by value vs reference.md",
     "Data Science/Computer Science/Programming/Angular.md",
     "Data Science/Computer Science/Programming/Containerization.md",
     "Data Science/Computer Science/Programming",
@@ -158,9 +171,7 @@
     "Data Science/Computer Science/Computer Fundamentals",
     "Data Science/Biostatistics/Biostatistics.md",
     "Data Science/Biostatistics",
-    "Assets/Pasted image 20240227130207.png",
     "Assets",
-    "README.md",
     "LICENSE",
     "Assets/Slope 1.jpg",
     "Assets/Pasted image 20240222212833.png",
@@ -180,7 +191,6 @@
     "Brilliant.org/Wavy lines.md",
     "Assets/Pasted image 20240222212737.png",
     "Assets/Pasted image 20240129154406.png",
-    "Assets/Slope.jpg",
     "Data Science/Computer Science/Containerisation",
     "Data Science/Computer Science/Artificial Intelligence",
     "Data Science/Computer Science/Unix",
