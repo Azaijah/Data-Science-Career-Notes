@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+                "file": "Data Science/Computer Science/Programming/Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+                "file": "Data Science/Computer Science/Programming/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+                "file": "Data Science/Computer Science/Programming/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md"
+                "file": "Data Science/Computer Science/Programming/Programming.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "6d0e2d06ff9d8784",
   "lastOpenFiles": [
-    "Data Science/Mathematics Fundamentals/Fractions.md",
-    "Data Science/Mathematics Fundamentals/Exponent Rules.md",
+    "Data Science/Computer Science/Programming/Angular.md",
     "Data Science/Mathematics Fundamentals/Algebra.md",
+    "Data Science/Mathematics Fundamentals/Exponent Rules.md",
+    "Data Science/Mathematics Fundamentals/Fractions.md",
+    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
     "Data Science/Computer Science/Computer Fundamentals/Application Memory.md",
     "Data Science/Biostatistics/Biostatistics.md",
     "Assets/Pasted image 20240227130207.png",
@@ -159,7 +161,6 @@
     "Assets/Pasted image 20240222212746.png",
     "Assets/Pasted image 20240205224443.png",
     "Assets/mx.jpg",
-    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
     "Untitled.canvas",
     "Health/Health.md",
     "Health/Brain Break.md",
@@ -169,7 +170,6 @@
     "Data Science/Mathematics Fundamentals",
     "Data Science/Biostatistics",
     "Data Science/Computer Science/Computer Fundamentals",
-    "Data Science/Computer Science/Programming/Angular.md",
     "linear relationships.md",
     "Brilliant.org/Brilliant.org (Notes).md",
     "Brilliant.org/Linear Equations.md",
