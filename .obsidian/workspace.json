@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md",
-                "mode": "preview",
+                "file": "Data Science/Mathematics Fundamentals/Radical Rules.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md",
+                "file": "Data Science/Mathematics Fundamentals/Radical Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md",
+                "file": "Data Science/Mathematics Fundamentals/Radical Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Exponent Rules.md"
+                "file": "Data Science/Mathematics Fundamentals/Radical Rules.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "6d0e2d06ff9d8784",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240228002858.png",
+    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+    "Data Science/Mathematics Fundamentals/Exponent Rules.md",
+    "Data Science/Mathematics Fundamentals/Radical Rules.md",
+    "Assets/Simplifying Radicals (1).png",
+    "Data Science/Mathematics Fundamentals/Fractions.md",
+    "Data Science/Mathematics Fundamentals/Algebra.md",
     "Assets/Simplifying complex expression (1).png",
     "Assets/Simplifying with shortcut (1).png",
-    "Data Science/Mathematics Fundamentals/Fractions.md",
-    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
     "Data Science/Computer Science/Programming/Programming.md",
     "Data Science/Computer Science/Programming/Python.md",
     "Data Science/Computer Science/Programming/Golang.md",
@@ -161,8 +166,6 @@
     "README.md",
     "Assets/Pasted image 20240227130207.png",
     "Assets/Simplifying with exponent rules (2).png",
-    "Data Science/Mathematics Fundamentals/Exponent Rules.md",
-    "Data Science/Mathematics Fundamentals/Algebra.md",
     "Data Science/Mathematics Fundamentals",
     "Data Science/Computer Science/Programming/Angular.md",
     "Data Science/Computer Science/Programming/Containerization.md",
@@ -188,9 +191,6 @@
     "Brilliant.org/Brilliant.org (Notes).md",
     "Brilliant.org/Linear Equations.md",
     "Brilliant.org/Equations.md",
-    "Brilliant.org/Wavy lines.md",
-    "Assets/Pasted image 20240222212737.png",
-    "Assets/Pasted image 20240129154406.png",
     "Data Science/Computer Science/Containerisation",
     "Data Science/Computer Science/Artificial Intelligence",
     "Data Science/Computer Science/Unix",

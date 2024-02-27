@@ -1,2 +1,2 @@
 [[Exponent Rules]]
-
+[[Radical Rules]]
