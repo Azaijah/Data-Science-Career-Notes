@@ -11,12 +11,8 @@
             "id": "6d0e2d06ff9d8784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Computer Science/Programming/Programming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Computer Science/Programming/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Computer Science/Programming/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Science/Computer Science/Programming/Programming.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,14 +140,28 @@
   },
   "active": "6d0e2d06ff9d8784",
   "lastOpenFiles": [
-    "Data Science/Computer Science/Programming/Angular.md",
-    "Data Science/Mathematics Fundamentals/Algebra.md",
-    "Data Science/Mathematics Fundamentals/Exponent Rules.md",
-    "Data Science/Mathematics Fundamentals/Fractions.md",
     "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+    "Data Science/Mathematics Fundamentals/Fractions.md",
+    "Data Science/Mathematics Fundamentals/Exponent Rules.md",
+    "Data Science/Mathematics Fundamentals/Algebra.md",
+    "Data Science/Mathematics Fundamentals",
+    "Data Science/Computer Science/Programming/Typescript.md",
+    "Data Science/Computer Science/Programming/Python.md",
+    "Data Science/Computer Science/Programming/Rust.md",
+    "Data Science/Computer Science/Programming/Golang.md",
+    "Data Science/Computer Science/Programming/Programming.md",
+    "Data Science/Computer Science/Programming/Passing by value vs reference.md",
+    "Data Science/Computer Science/Programming/Angular.md",
+    "Data Science/Computer Science/Programming/Containerization.md",
+    "Data Science/Computer Science/Programming",
     "Data Science/Computer Science/Computer Fundamentals/Application Memory.md",
+    "Data Science/Computer Science/Computer Fundamentals",
     "Data Science/Biostatistics/Biostatistics.md",
+    "Data Science/Biostatistics",
     "Assets/Pasted image 20240227130207.png",
+    "Assets",
+    "README.md",
+    "LICENSE",
     "Assets/Slope 1.jpg",
     "Assets/Pasted image 20240222212833.png",
     "Assets/Pasted image 20240222212746.png",
@@ -167,31 +173,17 @@
     "Health/Calisthenics.md",
     "Syllogisms.md",
     "Raising IQ.md",
-    "Data Science/Mathematics Fundamentals",
-    "Data Science/Biostatistics",
-    "Data Science/Computer Science/Computer Fundamentals",
     "linear relationships.md",
     "Brilliant.org/Brilliant.org (Notes).md",
     "Brilliant.org/Linear Equations.md",
     "Brilliant.org/Equations.md",
-    "Data Science/Computer Science/Programming/Programming.md",
-    "Data Science/Computer Science/Programming/Rust.md",
-    "Data Science/Computer Science/Programming/Golang.md",
-    "Data Science/Computer Science/Programming/Containerization.md",
     "Brilliant.org/Wavy lines.md",
     "Assets/Pasted image 20240222212737.png",
-    "Brilliant.org/Untitled.md",
-    "Brilliant.org/Parabolas.md",
-    "Brilliant.org/Perpendicular.md",
-    "Brilliant.org/Rate of change.md",
     "Assets/Pasted image 20240129154406.png",
     "Assets/Slope.jpg",
     "Data Science/Computer Science/Containerisation",
     "Data Science/Computer Science/Artificial Intelligence",
-    "Data Science/Computer Science/Programming",
     "Data Science/Computer Science/Unix",
-    "Health",
-    "Data Science/Computer Science",
-    "Data Science/Statistics"
+    "Health"
   ]
 }
