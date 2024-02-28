@@ -1,2 +1,7 @@
-[[Fractions]]
+[[Arithmetic]]
 [[Algebra]]
+[[Functions & Graphs]]
+[[Geometry]]
+[[Trigonometry]]
+[[Calculus]]
+[[Linear Algebra]]
