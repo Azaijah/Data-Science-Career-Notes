@@ -1,0 +1,3 @@
+#math
+#numbertheory
+[[Prime numbers]]

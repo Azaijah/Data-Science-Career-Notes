@@ -11,12 +11,8 @@
             "id": "6d0e2d06ff9d8784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "slope",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,52 +140,52 @@
   },
   "active": "6d0e2d06ff9d8784",
   "lastOpenFiles": [
-    "README.md",
-    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
-    "Data Science/Mathematics Fundamentals/Linear Alegbra/Linear Algebra.md",
-    "Data Science/Mathematics Fundamentals/Functions & Graphs/Functions & Graphs.md",
-    "Data Science/Mathematics Fundamentals/Functions & Graphs",
-    "Data Science/Mathematics Fundamentals/Trigonometry/Trigonometry.md",
-    "Data Science/Mathematics Fundamentals/Algebra/Algebra.md",
-    "Data Science/Mathematics Fundamentals/Geometry/Untitled.md",
-    "Data Science/Mathematics Fundamentals/Calculus/Calculus.md",
-    "Data Science/Mathematics Fundamentals/Algebra/Exponent Rules.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Factoring.md",
     "Data Science/Mathematics Fundamentals/Algebra/Distributing.md",
-    "Data Science/Mathematics Fundamentals/Arithmetic/Arithmetic.md",
-    "Data Science/Mathematics Fundamentals/Arithmetic/Fractions.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Properties of Operations.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Parallel and Perpendicular Lines.md",
+    "Data Science/Mathematics Fundamentals/Mathematics Fundamentals.md",
+    "Data Science/Mathematics Fundamentals/Number Theory/Prime numbers.md",
+    "Data Science/Mathematics Fundamentals/Number Theory/Number Theory.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Equations.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Equations of a Line.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Inequalities.md",
     "Data Science/Mathematics Fundamentals/Algebra/Radical Rules.md",
-    "Data Science/Mathematics Fundamentals/Geometry/Geometry.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Rate of change.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Algebra.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Algebraic Identities.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Solving Linear Inequalities.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Solving Linear Equations.md",
+    "Data Science/Mathematics Fundamentals/Number Types.md",
+    "README.md",
+    "Untitled.canvas",
+    "Data Science/Mathematics Fundamentals/Algebra/Exponent Rules.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Polynomials.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Rational Expressions.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Variables.md",
+    "Data Science/Statistics/Biostatistics/Biostatistics.md",
+    "Data Science/Statistics/Statistics.md",
+    "Data Science/Mathematics Fundamentals/Arithmetic/Least Common Multiple.md",
+    "Data Science/Mathematics Fundamentals/Arithmetic/Least Common Denominator.md",
+    "Data Science/Mathematics Fundamentals/Number Theory",
+    "Assets/Pasted image 20240228233929.png",
+    "Assets/Pasted image 20240228233822.png",
+    "Assets/Pasted image 20240228233748.png",
+    "Data Science/Statistics",
+    "Data Science/Mathematics Fundamentals/Functions & Graphs",
     "Data Science/Mathematics Fundamentals/Linear Alegbra",
     "Data Science/Mathematics Fundamentals/Calculus",
     "Data Science/Mathematics Fundamentals/Trigonometry",
     "Data Science/Mathematics Fundamentals/Geometry",
     "Data Science/Mathematics Fundamentals/Arithmetic",
     "Data Science/Mathematics Fundamentals/Algebra",
-    "Data Science/Mathematics Fundamentals/Algebra/Factoring.md",
     "Assets/Pasted image 20240228002858.png",
     "Assets/Simplifying Radicals (1).png",
     "Assets/Simplifying complex expression (1).png",
     "Assets/Simplifying with shortcut (1).png",
-    "Data Science/Computer Science/Programming/Programming.md",
-    "Data Science/Computer Science/Programming/Python.md",
-    "Data Science/Computer Science/Programming/Golang.md",
-    "Data Science/Computer Science/Programming/Passing by value vs reference.md",
-    "Data Science/Computer Science/Programming/Rust.md",
-    "Data Science/Computer Science/Programming/Typescript.md",
     "Assets/Pasted image 20240227130207.png",
     "Assets/Simplifying with exponent rules (2).png",
     "Data Science/Mathematics Fundamentals",
-    "Data Science/Computer Science/Programming/Angular.md",
-    "Data Science/Computer Science/Programming/Containerization.md",
-    "Data Science/Computer Science/Programming",
-    "Data Science/Computer Science/Computer Fundamentals/Application Memory.md",
-    "Data Science/Computer Science/Computer Fundamentals",
-    "Data Science/Biostatistics/Biostatistics.md",
-    "Assets/Slope 1.jpg",
-    "Assets/Pasted image 20240222212833.png",
-    "Assets/Pasted image 20240222212746.png",
-    "Assets/Pasted image 20240205224443.png",
-    "Untitled.canvas",
-    "Health/Health.md"
+    "Assets/Slope 1.jpg"
   ]
 }

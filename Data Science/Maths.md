@@ -1,0 +1,3 @@
+#math
+[[Mathematics Fundamentals]]
+[[Statistics]]

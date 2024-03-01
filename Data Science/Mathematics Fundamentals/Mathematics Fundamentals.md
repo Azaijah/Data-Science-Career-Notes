@@ -1,3 +1,6 @@
+#math
+
+[[Number Types]]
 [[Arithmetic]]
 [[Algebra]]
 [[Functions & Graphs]]
@@ -5,3 +8,4 @@
 [[Trigonometry]]
 [[Calculus]]
 [[Linear Algebra]]
+[[Number Theory]]
