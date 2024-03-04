@@ -1,3 +1,4 @@
+#compsci 
 1. **Dynamic Typing**: Python uses dynamic typing, meaning the type of a variable is determined at runtime, not in advance. This makes Python very flexible in handling different data types.
 
 2. **Interpreted Language**: Python code is executed line by line, which makes debugging easier but may result in slower execution compared to compiled languages.

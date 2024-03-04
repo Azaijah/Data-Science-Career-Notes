@@ -1,3 +1,4 @@
+#compsci 
 1. **Static Type Checking**: TypeScript provides static type checking, allowing developers to check the type of a variable, parameter, or return value at compile time. This feature helps catch errors early in the development process.
 
 2. **Type Annotations**: Developers can explicitly declare the type of variables, function parameters, and return values using type annotations. This feature enhances code readability and maintainability.

@@ -1,4 +1,4 @@
-
+#compsci 
 The key parts of application memory are the:
 
 - Stack 

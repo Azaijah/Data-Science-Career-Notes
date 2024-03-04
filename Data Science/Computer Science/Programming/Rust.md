@@ -1,3 +1,4 @@
+#compsci 
 - **Ownership System**: Rust uses a unique ownership model with rules that the compiler checks at compile time. This system manages memory safety without needing a garbage collector, preventing dangling pointers and data races.
 - **Safety and Concurrency**: Rust's type system and ownership model guarantee memory safety and thread safety, enabling safe concurrency without data races.
 - **Zero-Cost Abstractions**: Rust provides abstractions that are as efficient as hand-written code. This means you can use high-level features without a runtime performance penalty.

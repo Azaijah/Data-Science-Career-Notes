@@ -11,21 +11,21 @@
       "query": "tag: math",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 11007
       }
     },
     {
       "query": "tag: compsci",
       "color": {
         "a": 1,
-        "rgb": 16639
+        "rgb": 16771584
       }
     },
     {
-      "query": "tag: stats",
+      "query": "tag: #statistics  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 65378
       }
     },
     {
@@ -42,10 +42,10 @@
   "nodeSizeMultiplier": 1.478125,
   "lineSizeMultiplier": 1.35052083333333,
   "collapse-forces": false,
-  "centerStrength": 0.515625,
-  "repelStrength": 20,
+  "centerStrength": 0.541666666666667,
+  "repelStrength": 15.4166666666667,
   "linkStrength": 1,
-  "linkDistance": 253,
-  "scale": 0.32133638605036785,
+  "linkDistance": 192,
+  "scale": 0.3213363860503638,
   "close": false
 }

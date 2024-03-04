@@ -50,4 +50,3 @@
 
 **Solution:** First, distribute to get $2x - 6 + 4x + 8 = 3x + 18$, then combine like terms to get $6x + 2 = 3x + 18$. Next, subtract $3x$ and 2 from both sides to get $3x = 16$, then divide by 3 to find $x = \frac{16}{3}$.
 
-These examples are ready to be copied directly into Obsidian or any other markdown editor that supports LaTeX enclosed in dollar signs for math formatting.

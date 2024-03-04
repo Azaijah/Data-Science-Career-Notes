@@ -39,7 +39,8 @@ $\left(\dfrac{a}{b}\right)^n = \dfrac{a^n}{b^n}$
 	- A negative exponent in the numerator becomes a positive exponent in the denominator.
 	- A negative exponent in the denominator becomes a positive exponent in the numerator. 
 
-
+**Additional notes**:
+- Take care for negative signs i.e $168^0 = 1$, $(-412)^0 = 1$, $-8^0 = -1$
 
 
 **Examples of using the rules & shortcuts to simplify expressions:**
