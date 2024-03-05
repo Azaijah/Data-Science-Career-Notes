@@ -1,6 +1,6 @@
 #math 
 #algebra
-Equations of a line can be represented in various forms, each providing different insights into the line's properties such as slope, y-intercept, and x-intercept. The two most common forms are the Slope-Intercept Form and the Standard Form.
+Equations of a line can be represented in various forms, each providing different insights into the line's properties such as slope, y-intercept, and x-intercept. The two most common forms are the Slope-Intercept Form and the Standard Form. Regarding [[Parallel and Perpendicular Lines]], two lines are parallel if they have the same slope (m) but different y-intercepts (b). Perpendicular lines, on the other hand, have slopes that are negative reciprocals of each other ($m_1 \cdot m_2 = -1$). This relationship ensures that the lines intersect at a right angle.
 
 ### Slope-Intercept Form
 
@@ -13,7 +13,7 @@ Where:
 - $m$ is the slope of the line, indicating the [[rate of change]] of $y$ with respect to $x$,
 - $b$ is the y-intercept, which is the value of $y$ when $x = 0$, indicating where the line crosses the y-axis.
 
-This form is particularly useful for quickly identifying the slope and y-intercept of a line.
+The **Slope-Intercept Form** directly reveals the slope and y-intercept of a line, making it easy to graph and understand the line's behavior. The slope, m, indicates the line's steepness and direction, whereas the y-intercept, b, shows where the line crosses the y-axis.
 
 ### Standard Form
 
@@ -25,7 +25,7 @@ Where:
 - $A$ should be a non-negative integer,
 - $x$ and $y$ are variables representing points on the line.
 
-The Standard Form is beneficial for identifying intercepts and for performing operations like addition and subtraction of equations. It's also preferred when dealing with lines in more formal or theoretical contexts, such as in linear algebra.
+The **Standard Form** is beneficial for identifying intercepts and for performing operations like addition and subtraction of equations. It's also preferred when dealing with lines in more formal or theoretical contexts, such as in linear algebra.
 
 ### Converting Between Forms
 

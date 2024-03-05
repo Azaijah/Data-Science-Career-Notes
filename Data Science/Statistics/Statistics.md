@@ -4,6 +4,7 @@
 organizing, summarizing, presenting, analysing, and interpreting those data and 
 then drawing conclusions based on them. 
 
+[[Descriptive Statistics]]
 
 **[[Fundamental Definitions]]** - Introduces basic concepts and terminology used in statistics.
 
@@ -16,6 +17,8 @@ then drawing conclusions based on them.
 **[[Frequency Distributions for Organizing and Summarizing Data]]** - Discusses how to organize data into frequency distributions to summarize and present data more effectively.
 
 **[[Measures of relative standing, 5-number summary and boxplots]]**
+
+[[Cumulative Frequency & Percentage]]
 
 **[[Histograms]]** - Introduces histograms as a graphical representation of frequency distributions, providing a visual summary of data.
 
