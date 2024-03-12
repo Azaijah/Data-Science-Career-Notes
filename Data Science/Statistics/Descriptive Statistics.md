@@ -13,5 +13,3 @@
 
 3. **Outlier Detection**
    - Outliers are data points that are significantly different from most of the data. Detecting outliers is crucial as they can indicate variability in the data, experimental errors, or novel insights. Methods to detect outliers include statistical tests, visualization (like box plots), and proximity-based methods (such as clustering).
-
-Remember, EDA is an iterative and interactive process that involves summarizing the main characteristics of a dataset through visualizations and statistics. It’s often the first step in data analysis, helping to uncover patterns, spot anomalies, test a hypothesis, or check assumptions.

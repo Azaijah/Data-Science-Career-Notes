@@ -1,4 +1,3 @@
-#math 
 #algebra
 In algebra, identities are equations that hold true for all values of the variables involved. These equations remain valid regardless of the specific numbers you plug into them. Identities are foundational in algebra and help in simplifying expressions and solving equations. 
 

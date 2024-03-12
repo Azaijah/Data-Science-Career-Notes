@@ -1,4 +1,3 @@
-#math 
 #algebra
 Equations of a line can be represented in various forms, each providing different insights into the line's properties such as slope, y-intercept, and x-intercept. The two most common forms are the Slope-Intercept Form and the Standard Form. Regarding [[Parallel and Perpendicular Lines]], two lines are parallel if they have the same slope (m) but different y-intercepts (b). Perpendicular lines, on the other hand, have slopes that are negative reciprocals of each other ($m_1 \cdot m_2 = -1$). This relationship ensures that the lines intersect at a right angle.
 

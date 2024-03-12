@@ -1,1 +1,5 @@
 #math
+#geometry
+
+[[Pythagorean theorem]]
+

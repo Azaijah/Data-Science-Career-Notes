@@ -1,4 +1,3 @@
-#math 
 #algebra
 A system of linear equations is a collection of one or more linear equations involving the same set of variables. These equations are called "linear" because they represent straight lines in Cartesian coordinates. The solution to a system of linear equations is the set of values that satisfy all the equations in the system simultaneously. There are several methods to solve these systems, including graphing, substitution, elimination, and matrix methods (such as using determinants or row reduction).
 

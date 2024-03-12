@@ -1,5 +1,5 @@
-#math 
 #algebra
+
 Inequalities are mathematical expressions involving the symbols $>$ (greater than), $<$ (less than), $\geq$ (greater than or equal to), and $\leq$ (less than or equal to) to compare two values or expressions. Algebraic inequalities involve variables and can be solved or analyzed to find the range of values that satisfy the inequality. Here are the basic types and how to solve them:
 
 ### Types of Inequalities

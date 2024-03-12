@@ -1,4 +1,3 @@
-#math 
 #algebra
 Polynomials are mathematical expressions involving a sum of powers in one or more variables multiplied by coefficients. The basic structure of a polynomial revolves around terms and operations. 
 

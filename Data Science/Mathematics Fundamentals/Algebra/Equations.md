@@ -1,4 +1,3 @@
-#math 
 #algebra 
 
 An equation is a mathematical statement that asserts the equality of two expressions, typically involving variables and constants. It is written as two expressions separated by an equals sign ("="). The primary goal of an equation is to represent a relationship between the expressions, where both sides of the equation are equivalent under certain conditions.

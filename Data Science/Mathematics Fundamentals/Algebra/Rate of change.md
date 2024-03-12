@@ -1,4 +1,3 @@
-#math 
 #algebra
 Finding the slope of a line is a fundamental concept in algebra and geometry, reflecting the **rate** at which the line rises or falls as you move from left to right along the line. The slope is usually represented by the letter $m$. There are several ways to find the slope of a line depending on the information you have:
 

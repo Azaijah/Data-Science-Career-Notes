@@ -1,4 +1,3 @@
-#math
 #algebra
 Factoring refers to the process of decomposing an expression into a product of simpler expressions that, when multiplied together, give the original expression.
 
@@ -6,6 +5,8 @@ Used to
 - simplify expressions.
 - solve equations.
 - analyse mathematical structures.
+
+Great source: https://youtu.be/9MUDAr1PnlE
 
 ##### Factoring a Monomial
 A monomial is an algebraic expression made up of one term. To factor a monomial, you find all its prime factors.

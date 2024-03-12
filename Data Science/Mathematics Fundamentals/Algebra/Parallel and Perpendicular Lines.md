@@ -1,4 +1,3 @@
-#math 
 #algebra 
 
 Parallel and perpendicular lines are fundamental concepts in geometry & algebra, characterized by their unique properties related to slope and orientation in the Cartesian coordinate system.

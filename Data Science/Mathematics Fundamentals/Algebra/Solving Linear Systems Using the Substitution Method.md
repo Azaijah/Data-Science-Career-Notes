@@ -1,4 +1,3 @@
-#math 
 #algebra 
 The substitution method is a technique for solving systems of linear equations. This method involves solving one of the equations for one variable in terms of the other(s) and then substituting this expression into the other equation(s). This method is particularly useful when one of the equations is easily solvable for one of the variables. Here’s how you can use the substitution method step-by-step:
 

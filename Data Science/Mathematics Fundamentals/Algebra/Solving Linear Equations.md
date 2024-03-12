@@ -1,4 +1,3 @@
-#math
 #algebra
 ### 1. Simple Linear Equation
 **Example:** Solve for \(x\): $2x + 3 = 7$.

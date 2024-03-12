@@ -1,4 +1,4 @@
 #compsci 
 [[Computer Fundamentals]] 
-[[Programming]]
+[[Software Engineering]]
 [[Artificial Intelligence]]

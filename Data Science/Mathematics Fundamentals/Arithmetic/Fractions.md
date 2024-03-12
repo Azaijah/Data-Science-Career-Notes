@@ -1,4 +1,3 @@
-#math
 #arithmetic 
 ![[Pasted image 20240227130207.png]]
 

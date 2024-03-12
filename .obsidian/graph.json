@@ -5,31 +5,31 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag: math",
+      "query": "tag:#statistics  ",
       "color": {
         "a": 1,
-        "rgb": 11007
+        "rgb": 14048348
       }
     },
     {
-      "query": "tag: compsci",
+      "query": "tag:#algebra  ",
       "color": {
         "a": 1,
-        "rgb": 16771584
+        "rgb": 14069084
       }
     },
     {
-      "query": "tag: #statistics  ",
+      "query": "tag:#compsci  ",
       "color": {
         "a": 1,
-        "rgb": 65378
+        "rgb": 11392604
       }
     },
     {
-      "query": "tag: #algebra  ",
+      "query": "tag:#arithmetic  ",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -38,14 +38,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 1.01875,
-  "lineSizeMultiplier": 1.19739583333333,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.291666666666667,
-  "repelStrength": 11.1458333333333,
-  "linkStrength": 0.901041666666667,
-  "linkDistance": 331,
-  "scale": 0.3213363860503659,
+  "centerStrength": 0.166666666666667,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4505081176758171,
   "close": false
 }

@@ -1,4 +1,3 @@
-#math 
 #algebra
 Solving linear inequalities is a fundamental skill in algebra that helps you understand how to find the range of values that satisfy an inequality. A linear inequality looks much like a linear equation, except it uses inequality symbols ($<$, $>$, $\leq$, $\geq$) instead of an equals sign. Here's a step-by-step guide on how to solve them:
 

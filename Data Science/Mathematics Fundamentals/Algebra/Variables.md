@@ -1,4 +1,3 @@
-#math
 #algebra
 In algebra, a variable is a symbol used to represent an unknown or arbitrary number. Variables are typically denoted by letters such as $x, y, a, b$ etc. They are used to express relationships and patterns in mathematical expressions and equations.
 

@@ -1,4 +1,3 @@
-#math 
 #algebra
 ##### Product rule: 
 The square root (or any root) of a product is equal to the product of the roots.

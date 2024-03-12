@@ -1,4 +1,3 @@
-#math
 #algebra
 ##### Communicative Law:
 The Commutative Law applies to addition and multiplication and states that changing the order of the operands does not change the outcome.

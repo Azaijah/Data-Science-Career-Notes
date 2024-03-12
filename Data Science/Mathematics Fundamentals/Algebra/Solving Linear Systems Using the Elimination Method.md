@@ -1,4 +1,3 @@
-#math 
 #algebra
 The elimination method, also known as the addition method, is a technique for solving systems of linear equations. This method involves adding or subtracting the equations in order to eliminate one of the variables, making it possible to solve for the other variable. The goal is to reduce the system of equations to a single equation in one variable, which can then be solved easily. Here's a step-by-step guide on how to use the elimination method:
 

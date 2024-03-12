@@ -1,0 +1,2 @@
+#algebra 
+**Forgetting double negative sign when substituting**: When substituting say $y=-19$ into $-x -y -3 = 0$ it will be $-x -(-19)-3 = 0$. The common mistake is that if y is already negative you forget to put the double negative sign. 

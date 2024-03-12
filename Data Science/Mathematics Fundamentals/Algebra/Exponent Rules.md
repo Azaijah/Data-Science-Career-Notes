@@ -1,4 +1,4 @@
-#math
+#algebra 
 ##### Product Rule: 
 When you multiply two powers that have the same base, you add the exponents.
 $x^n \times x^m = x^{n+m}$
@@ -10,7 +10,7 @@ $\dfrac{x^n}{ x^m} = x^{n-m}$
 ##### Power of Power Rule: 
 When raising a power to another power, you multiply the exponents.
 $(x^n)^m = x^{n \times m}$
-
+44
 ##### Zero Exponent Rule: 
 Any base (except 0) raised to the zero power is 1.
 $x^0 = 1$

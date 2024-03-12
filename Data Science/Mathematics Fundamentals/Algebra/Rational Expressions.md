@@ -1,4 +1,3 @@
-#math
 #algebra
 
 Rational expressions are fractions that involve [[polynomials]] in the numerator, the denominator, or both. Simplifying and operating with these expressions requires a solid understanding of polynomial factoring, finding common denominators, and applying the basic properties of arithmetic operations. Let's dive into each of the topics you've listed:
