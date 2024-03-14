@@ -20,9 +20,9 @@ Hypothesis testing is a fundamental aspect of statistical analysis used to deter
 
 ### Types of Tests
 
-- **Z-Tests**: Appropriate for comparing a sample mean to a population mean or comparing the means of two populations, when the population variances are known and the sample size is large ($n > 30$). Also used for comparing proportions. Works with [[Normal Distribution|normal distributions]]
+- [[Z-Test|Z-Tests]]: Appropriate for comparing a sample mean to a population mean or comparing the means of two populations, when the population variances are known and the sample size is large ($n > 30$). Also used for comparing proportions. Works with [[Z-distribution (standard normal distribution)|Z-distributions]]
 
-- **t-Tests**: Suitable for comparing means between two groups (independent or paired samples) or comparing a single group mean to a population mean, especially when the sample size is small ($n \leq 30$) and the population variance is unknown. Works with [[T-Distribution|t-distributions]]
+- [[T-Test|T-tests]]: Suitable for comparing means between two groups (independent or paired samples) or comparing a single group mean to a population mean, especially when the sample size is small ($n \leq 30$) and the population variance is unknown. Works with [[T-Distribution|t-distributions]]
 
 - **ANOVA (Analysis of Variance)**: Used to compare means across three or more groups to determine if there's a significant difference. It's ideal when you're examining the effect of one or more categorical independent variables on a continuous dependent variable.
 

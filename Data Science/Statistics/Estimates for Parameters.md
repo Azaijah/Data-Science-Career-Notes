@@ -1,14 +1,12 @@
 #statistics 
 
-1. **Point Estimate**
-   - This is defined as a single numerical value used to estimate a population parameter.
-   - An example given is the sample mean, denoted as \( \bar{x} \).
-   - It is mentioned that point estimates are not very reliable, which implies that they can be prone to error and may not reflect the true population parameter accurately due to the variability in samples.
+1. **Point Estimate Overview**:
+   - Essentially, a point estimate is a solitary numerical figure proposed as the best guess or prediction of a population parameter.
+   - A commonly used point estimate example is the sample mean, symbolized by $( \bar{x} )$.
+   - The reliability of point estimates is often questioned due to their susceptibility to error. Given the variability inherent in sample data, a point estimate may not always accurately capture the true value of the population parameter it seeks to estimate.
 
-2. **Interval Estimate**
-   - This refers to two numerical values that define a range within which the population parameter is likely to lie.
-   - The example provided is confidence intervals (CIs) of the mean.
-   - Typically, 95% or 99% confidence intervals are applied. These percentages reflect the level of confidence one can have that the interval contains the population parameter.
-   - Interval estimates are said to be much more reliable. This is because they provide a range of values, taking into account the variability and uncertainty in sample data, rather than relying on a single point estimate.
-
-Both point estimates and interval estimates are tools in statistical inference used to generalize findings from a sample to the larger population. The key takeaway is that while point estimates give a specific value, interval estimates provide a range, which is generally a more reliable way to estimate population parameters because it accounts for the uncertainty inherent in sampling.
+2. **Interval Estimate Explained**:
+   - In contrast, an interval estimate encompasses a range of numerical values within which the true population parameter is presumed to reside.
+   - Confidence intervals (CIs) for the mean serve as a pertinent illustration of interval estimates.
+   - Confidence levels, typically set at 95% or 99%, express the degree of certainty or confidence that the specified interval encloses the actual population parameter.
+   - Owing to their consideration of sample data variability and uncertainty, interval estimates are regarded as markedly more dependable. Unlike point estimates that provide a singular value, interval estimates offer a value range, thereby presenting a more robust method for estimating population parameters that accommodates the inherent uncertainties of sampling.

@@ -5,6 +5,8 @@ organizing, summarizing, presenting, analysing, and interpreting those data and
 then drawing conclusions based on them. 
 
 [[Fundamental Definitions]]
+[[Fundamental Statistical Symbols]]
+[[Fundamental Formulas]]
 [[Descriptive Statistics]]
 [[Basic Types of Data]]
 [[Measures of Centre]]
@@ -17,7 +19,9 @@ then drawing conclusions based on them.
 [[Cumulative Frequency & Percentage]]
 
 [[Normal Distribution]]
+[[T-Distribution]]
 [[Hypothesis testing]]
 
-
+[[Estimates for Parameters]]
 [[Tools for Statistical Analysis]]
+

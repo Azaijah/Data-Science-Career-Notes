@@ -14,7 +14,7 @@ The t-distribution, also known as Student's t-distribution, is a type of probabi
 
 ### Applications
 
-1. **t-Tests**: The t-distribution is used in t-tests, which are a type of hypothesis testing used to compare means. This includes one-sample t-tests, independent two-sample t-tests, and paired t-tests.
+1. [[T-Test|T-tests]]: The t-distribution is used in t-tests, which are a type of hypothesis testing used to compare means. This includes one-sample t-tests, independent two-sample t-tests, and paired t-tests.
 2. **Confidence Intervals**: When estimating the confidence intervals for a population mean from a sample with an unknown population standard deviation, the t-distribution is used to account for the additional uncertainty.
 3. **Assumptions**: For the t-distribution to be applied, the underlying data should be approximately normally distributed, especially as the sample size decreases.
 
