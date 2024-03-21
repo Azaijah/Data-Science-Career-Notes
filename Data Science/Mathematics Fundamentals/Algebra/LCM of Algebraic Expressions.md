@@ -34,7 +34,7 @@ Therefore, the LCM of $2x^2y$ and $8xy^3$ is $8x^2y^3$.
 
 1. **Factor Each Expression**:
    - $3x^2 - 3 = 3(x^2 - 1)$
-   - $x^2 - 1$ can be factored further as $(x + 1)(x - 1)$ using the [[Factoring#Factoring the Difference of Squares|difference of squares]]
+   - $x^2 - 1$ can be factored further as $(x + 1)(x - 1)$ using the [[Factoring (Basics)#Factoring the Difference of Squares|difference of squares]]
 
    Note that $x^2 - 1$ is a common factor, but we can factor it further for the first expression:
    - $3(x^2 - 1) = 3(x + 1)(x - 1)$

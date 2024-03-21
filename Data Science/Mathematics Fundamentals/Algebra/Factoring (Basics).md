@@ -48,4 +48,4 @@ For higher degree polynomials, factoring can be more complex and may involve syn
 
 Additional notes:
 - You can check your factoring simply by [[distributing]] (the opposite of factoring) and seeing if you end up with the original expression. 
-- Unlike the [[Factoring#Factoring Difference or Sum of Cubes|sum of cubes]] you cannot factor the sum of squares
+- Unlike the [[Factoring (Basics)#Factoring Difference or Sum of Cubes|sum of cubes]] you cannot factor the sum of squares

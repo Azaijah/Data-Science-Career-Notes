@@ -35,6 +35,6 @@ The concept of "cancelling out" in algebra refers to the simplification of expre
 
 ### Important Note
 
-- You cannot cancel out terms if they are not part of a product (meaning they are not multiplied by each other). You can only cancel out a factor that is common to the numerator and denominator.
+- You cannot cancel out terms if they are not part of a product (meaning they are not multiplied by each other). You can only cancel out **a factor that is common to the numerator and denominator.****
 
 - Division by zero is undefined, so if the common factor could be zero, you must state that it is not allowed. For instance, in the example above, we cannot have $a + 3 = 0$ because then the denominator would be zero, which is not permitted in mathematics. This implies $a \neq -3$ in our simplified expression.

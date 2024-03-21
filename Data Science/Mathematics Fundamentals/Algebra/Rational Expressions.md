@@ -4,7 +4,7 @@ Rational expressions are fractions that involve [[polynomials]] in the numerator
 
 ##### 1. Simplify Rational Expressions by Factoring and Cancelling Common Factors
 
-- **[[Factoring]]**: Start by factoring both the numerator and the denominator of the rational expression into their simplest forms. This involves identifying the greatest common factor (GCF), difference of squares, trinomials, or other factoring techniques.
+- **[[Factoring (Basics)]]**: Start by factoring both the numerator and the denominator of the rational expression into their simplest forms. This involves identifying the greatest common factor (GCF), difference of squares, trinomials, or other factoring techniques.
 - **Cancelling Common Factors**: Once both the numerator and the denominator are factored, cancel out any common factors that appear in both. Remember, only factors can be cancelled; terms separated by addition or subtraction cannot be cancelled out.
 
 ##### 2. Find the Least Common Denominator for Two or More Rational Expressions

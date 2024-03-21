@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5a9fa8fc4c58e6a1",
+        "id": "4605fa15334f8ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "379c0af1fce43371",
+            "id": "ffc5aa18d827c80c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Statistics/Standard Error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c64185398669d02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/Statistics/T-Test.md",
+                "file": "Data Science/Mathematics Fundamentals/Algebra/Radical Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Statistics/T-Test.md",
+                "file": "Data Science/Mathematics Fundamentals/Algebra/Radical Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Statistics/T-Test.md",
+                "file": "Data Science/Mathematics Fundamentals/Algebra/Radical Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Statistics/T-Test.md"
+                "file": "Data Science/Mathematics Fundamentals/Algebra/Radical Rules.md"
               }
             }
           }
@@ -159,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c64185398669d02c",
+  "active": "ffc5aa18d827c80c",
   "lastOpenFiles": [
-    "Data Science/Statistics/T-Distribution.md",
-    "Data Science/Statistics/Z-distribution (standard normal distribution).md",
-    "Data Science/Statistics/Hypothesis testing.md",
-    "Data Science/Statistics/T-Test.md",
-    "Data Science/Statistics/Hypothesis Test Assumptions.md",
-    "Data Science/Statistics/Normal Distribution.md",
-    "Data Science/Statistics/Null & Alternative Hypothesis.md",
-    "Data Science/Statistics/Tools for Statistical Analysis.md",
-    "Data Science/Statistics/Z-Test.md",
-    "Data Science/Statistics/Testing for normality.md",
-    "Data Science/Mathematics Fundamentals/Algebra/Greatest Common Factor.md",
-    "Data Science/Statistics/Statistics.md",
-    "Data Science/Statistics/Fundamental Formulas.md",
-    "Data Science/Statistics/Fundamental Statistical Symbols.md",
-    "Data Science/Statistics/Confidence intervals (CIs).md",
+    "Data Science/Mathematics Fundamentals/Algebra/LCD of Algebraic Expressions.md",
+    "Data Science/Computer Science/Software Engineering/MatLab.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Algebra.md",
+    "Data Science/Mathematics Fundamentals/Algebra/LCM of Algebraic Expressions.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Solving quadratic equations using factoring.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Factoring Trinomials.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Factoring (Basics).md",
+    "Data Science/Mathematics Fundamentals/Arithmetic/Least Common Multiple (LCM).md",
+    "Data Science/Mathematics Fundamentals/Arithmetic/Least Common Denominator (LCD).md",
+    "Data Science/Mathematics Fundamentals/Arithmetic/Greatest Common Factor (GCF).md",
+    "Data Science/Mathematics Fundamentals/Algebra/GCF of Algebraic Expressions.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Functions.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Exponent Rules.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Equations of a Line.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Equations.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Distributing.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Common Mistakes.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Cancelling Out In Algebra.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Algebraic Identities.md",
+    "Data Science/Mathematics Fundamentals/Arithmetic/Cancelling Out.md",
+    "Data Science/Mathematics Fundamentals/Algebra/Rational Expressions.md",
     "Data Science/Statistics/Standard Error.md",
-    "Data Science/Statistics/Cumulative Frequency & Percentage.md",
-    "Data Science/Statistics/Central  Limit  Theorem.md",
-    "Data Science/Statistics/Basic Types of Data.md",
-    "Data Science/Statistics/Estimates for Parameters.md",
-    "Data Science/Statistics/Histograms.md",
-    "Data Science/Computer Science/Computer Science.md",
     "Data Science/Computer Science/DevOps/Terraform.md",
-    "Data Science/Computer Science/DevOps/Kubernetes.md",
-    "Data Science/Computer Science/DevOps/GitLab.md",
-    "Data Science/Computer Science/DevOps/Elasticsearch, LogStash & Kibana.md",
+    "Data Science/Mathematics Fundamentals/Arithmetic/Arithmetic.md",
+    "Data Science/Computer Science/DevOps/Debian.md",
+    "Data Science/Computer Science/DevOps/DevOps.md",
     "Data Science/Computer Science/DevOps",
     "Assets/Pasted image 20240311120840.png",
     "Untitled.canvas",

@@ -2,10 +2,18 @@
 
 The t-test is a statistical test used to compare the means of two groups or to compare a sample mean to a known value (often a theoretical or hypothesized value). It helps to determine if the differences between groups are statistically significant. Here are key notes on the t-test, including its types, assumptions, and formulas:
 
-### Types of t-Tests
-1. **One-Sample t-Test**: Compares the mean of a single group against a known mean.
-2. **Independent Samples t-Test** (also known as the two-sample t-test): Compares the means of two independent groups.
-3. **Paired Samples t-Test**: Compares the means of two related groups.
+### Types of T-Tests
+
+1. **One-Sample T-Test**: Compares the mean of a single group against a known mean or theoretical value. It determines if the mean of the sample is significantly different from the known mean.
+
+2. **Two-Sample T-Test (Independent Samples T-Test)**: Compares the means of two independent groups. This type of T-test is used to determine if there is a significant difference between the means of two unrelated groups.
+
+3. **Paired-Sample T-Test (Dependent T-Test)**: Compares the means of two related groups. This test is used when the samples are dependent; that is, when there is a meaningful connection between the two samples. This often occurs in before-and-after situations, where the same subjects are tested under two different conditions, or matched pairs in studies.
+
+Each of these tests can be further classified based on the assumption of equal variances:
+
+- **Equal variances (Homoscedastic)**: Assumes that the two groups being compared have the same variance.
+- **Unequal variances (Heteroscedastic)**: Does not assume that the variances of the two groups are equal. When variances are unequal, a variation of the two-sample T-test called Welch's T-test is often used.
 
 ### Single and Two-Tailed Tests
 - **Single-Tailed Test**: Tests for the possibility of the relationship in one direction and completely ignores the possibility of a relationship in the other direction.

@@ -30,9 +30,3 @@ Simplifying radicals by taking out of the radical any factor that is a perfect s
 $\sqrt{a^2b} = a\sqrt{b}$
 $\sqrt[n]{a^n b} = a\sqrt[n]{b}$
 
-
-
-**Examples (from https://youtu.be/LwCRRUa8yTU?t=1277 [Simplifying Radicals]):**
-****
-![[Simplifying Radicals (1).png]]
-![[Pasted image 20240228002858.png]]
